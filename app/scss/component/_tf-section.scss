@@ -2,7 +2,7 @@
 /* tf-section
 -------------------------------------------------------------- */
 .tf-section {
-    padding: 120px 0;
+    padding: 20px 0;
     &.pb0 {
         padding-bottom: 0;
     }
@@ -13,7 +13,7 @@
 
 .main {
     .header__logo {
-        background: $bg-gradient;
+        background-color: #ffffff;
     }
     .page-title {
         background: url('./../../assets/images/backgroup/bgslider1.jpg') center center no-repeat;
@@ -194,7 +194,7 @@
 
 .home1 {
     .title-section .sub-title::before {
-        background: linear-gradient(246.06deg, #CF00FE 15.37%, rgba(255, 255, 255, 0) 116.95%);
+        background: linear-gradient(246.06deg, #ffffff 15.37%, rgba(255, 255, 255, 0) 116.95%);
     }
     .tf-section {
         &.technology-solution,
@@ -2863,7 +2863,7 @@
 }
 
 .tf-product-details {
-    padding: 120px 0 98px;
+    padding: 2px;
     .image-thump-product {
         position: relative;
         width: 58%;
